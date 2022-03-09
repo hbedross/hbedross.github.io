@@ -391,11 +391,11 @@ nav ul li a {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 14px;
-  color: #3b434a;
+  color: #879c99;
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #b8a07e;
+  color: #000000;
 }
 
 .navbar-mobile .getstarted {
@@ -848,13 +848,13 @@ nav ul li a {
 #footer .end-notes {
   position: absolute;
   top: 35%;
-  left: 5%;
+  left: 15%;
 }
 
 #footer .business-card {
-  width: 80%;
+  width: 60%;
   max-height: 50vh;
-  margin-left: 20%;
+  margin-left: 40%;
 }
 
 #footer .social-links {
